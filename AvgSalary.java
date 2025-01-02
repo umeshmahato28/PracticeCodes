@@ -1,6 +1,6 @@
 import java.util.*;
  
-class test{
+class test{ 
       String name;
       int id;
       double salary;
