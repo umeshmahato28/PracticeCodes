@@ -1,4 +1,4 @@
-import java.util.Scanner;
+import java.util.*;
 
 public class Factorial {
       public static int displayFactorial(int n){
