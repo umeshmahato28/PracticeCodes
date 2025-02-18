@@ -30,7 +30,7 @@ public class StringOperation {
             System.out.println(sb);
 
             // Replace
-            sb.setCharAt(1,'e'); 
+            sb.setCharAt(1,'e');  
             System.out.println(sb);
 
             //  Insert new character like append
